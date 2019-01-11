@@ -2,3 +2,4 @@ language: swift
 xcode_project: TravisTest190111/TravisTest190111.xcodeproj
 xcode_scheme: TravisTest190111
 xcode_destination: platform=iOS Simulator,OS=10.1,name=iPad Pro (9.7-inch)
+osx_image: xcode10.1
