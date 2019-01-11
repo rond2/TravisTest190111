@@ -12,6 +12,7 @@
 		60B4FD7121E9505700C28B99 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 60B4FD6F21E9505700C28B99 /* Main.storyboard */; };
 		60B4FD7321E9505700C28B99 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 60B4FD7221E9505700C28B99 /* Assets.xcassets */; };
 		60B4FD7621E9505700C28B99 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 60B4FD7421E9505700C28B99 /* LaunchScreen.storyboard */; };
+		60B4FD7E21E955D100C28B99 /* .travis.yml in Resources */ = {isa = PBXBuildFile; fileRef = 60B4FD7D21E955D100C28B99 /* .travis.yml */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		60B4FD7221E9505700C28B99 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		60B4FD7521E9505700C28B99 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		60B4FD7721E9505700C28B99 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		60B4FD7D21E955D100C28B99 /* .travis.yml */ = {isa = PBXFileReference; lastKnownFileType = text; path = .travis.yml; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,6 +41,7 @@
 			isa = PBXGroup;
 			children = (
 				60B4FD6A21E9505700C28B99 /* TravisTest190111 */,
+				60B4FD7D21E955D100C28B99 /* .travis.yml */,
 				60B4FD6921E9505700C28B99 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -124,6 +127,7 @@
 			files = (
 				60B4FD7621E9505700C28B99 /* LaunchScreen.storyboard in Resources */,
 				60B4FD7321E9505700C28B99 /* Assets.xcassets in Resources */,
+				60B4FD7E21E955D100C28B99 /* .travis.yml in Resources */,
 				60B4FD7121E9505700C28B99 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
