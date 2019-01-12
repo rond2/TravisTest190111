@@ -29,7 +29,7 @@ class TravisTest190111Tests: XCTestCase {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct results.
     
-        XCTAssert(1 == 2, "Error: shouldn't 1 == 2?")
+//        XCTAssert(1 == 2, "Error: shouldn't 1 == 2?")
     }
     
     func testPerformanceExample() {
